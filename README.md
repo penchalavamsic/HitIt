@@ -17,7 +17,7 @@ To run the app on your device, you need:
 An Android device or emulator.
 Thunkable Live app for testing directly on your device. You can download it from the Google Play Store.
 Installation
-Download the APK: [Link to APK] (Add your app's APK link here).
+Download the APK: https://github.com/penchalavamsic/HitIt/blob/master/HitIt.apk
 Install the APK: Open the downloaded APK file on your Android device and follow the instructions to install the app.
 
 
